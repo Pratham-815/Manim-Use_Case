@@ -1,1 +1,1 @@
-# Manim-Use_Case
+This repository contains the code that visualizes the calculation of the distance between two points (2, 3) and (4,5) using Manim, a mathematical animation engine. The animation presents the problem, step-by-step solution, and the final computed result dynamically.
